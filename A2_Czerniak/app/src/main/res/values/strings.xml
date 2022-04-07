@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">A2_Czerniak</string>
+    <string name="przelicz">Przelicz</string>
+    <string name="koszt_zam_wienia">Koszt zamówienia</string>
+    <string name="napiwek">Napiwek %</string>
+    <string name="obliczony_napiwek">Obliczony napiwek</string>
+    <string name="no_value_string">No Value</string>
+    <string name="napiwek_wynosi">Napiwek wynosi:</string>
+    <string name="dots">...</string>
+    <string name="wpisz_koszt_zam_wienia">Wpisz koszt zamówienia:</string>
+    <string name="oblicz_napiwek_z_oceny_obs_ugi">Oblicz napiwek z oceny obsługi:</string>
+    <string name="r_czne_wpisanie_wysoko_ci">Ręczne wpisanie wysokości(%):</string>
+</resources>
