@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">A4_Czerniak</string>
+    <string name="go">Go</string>
+    <string name="enter_a_site">Enter a site</string>
+    <string name="pwr_edu_pl">pwr.edu.pl</string>
+    <string name="display_settings">Display Settings</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="hello">Hello</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="send_to_second">Send to second</string>
+    <string name="numer_indeksu">numer indeksu</string>
+    <string name="name_grade_text">name_grade_text</string>
+    <string name="name_and_grade">name and grade</string>
+    <string name="index_number">index number</string>
+    <string name="go_back">Go back</string>
+    <string name="my_index_254013">My index: 254013</string>
+</resources>
